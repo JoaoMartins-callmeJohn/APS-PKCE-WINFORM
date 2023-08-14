@@ -1,7 +1,5 @@
 # APS-PKCE-WINFORM
 
-## This is a work in progress
-
 ## Introduction
 
 This sample demonstrates a quick workflow to generate a three legged token from a desktop app using [3-Legged Token with Authorization Code Grant (PKCE)](https://aps.autodesk.com/en/docs/oauth/v2/tutorials/get-3-legged-token-pkce/)
